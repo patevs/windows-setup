@@ -1,12 +1,12 @@
 {
-  "name": "semantic-template",
-  "version": "1.4.0",
-  "description": "A Template repository for semantically versioned projects",
+  "name": "windows-setup",
+  "version": "0.0.0",
+  "description": "Windows development environment setup scripts",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/semantic-template.git"
+    "url": "git+https://github.com/patevs/windows-setup.git"
   },
   "engines": {
     "node": ">=10.21.0",

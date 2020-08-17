@@ -1,6 +1,6 @@
-# Semantic Template
+# Windows Setup
 
-> A Template repository for semantically versioned projects.
+> Windows development environment setup scripts.
 
 ---
 
