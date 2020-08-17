@@ -8,13 +8,11 @@ function Test-Elevated {
   return $userPrincipal.IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)
 }
 
+Push-Location ("deps")
+
+# From within the ./deps directory...
 .\deps.ps1
 
-# Push-Location ("components")
-
-# From within the ./components directory...
-# .\powershell.ps1
-
-# Pop-Location
+Pop-Location
 
 # EOF #
