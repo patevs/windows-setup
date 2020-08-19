@@ -17,13 +17,16 @@
 
 ```md
 .
+├── docs                # Documentation
+├── scripts             # Additional scripts
 ├── .commitlintrc.json  # Commitlint configuration
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
 ├── .np-config.json     # NPM Publish (np) configuration
 ├── LICENSE             # Project License
 ├── package.json        # NPM package configuration
-└── README.md           # Project README
+├── README.md           # Project README
+└── setup.ps1           # Setup script
 ```
 
 ---
