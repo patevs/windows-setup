@@ -1,4 +1,4 @@
-<# scripts/npm/installs/globals.ps1
+<# npm/install.ps1
 
 TODO:
   * Check currently installed NPM global modules.
