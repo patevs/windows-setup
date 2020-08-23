@@ -1,3 +1,7 @@
+# --------- #
+# setup.ps1 #
+# --------- #
+
 # Test if running as administrator
 # http://serverfault.com/questions/95431
 function Test-Elevated {
@@ -8,9 +12,9 @@ function Test-Elevated {
   return $userPrincipal.IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)
 }
 
-Push-Location ("deps")
+Push-Location ("scripts")
 
-# From within the ./deps directory...
+# From within the ./scripts directory...
 .\deps.ps1
 
 Pop-Location
