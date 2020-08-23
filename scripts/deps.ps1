@@ -242,6 +242,7 @@ scoop install lsd
 scoop install msys2
 scoop install neovim
 # scoop install ninja
+# scoop install nmap
 # scoop install NuGet
 scoop install ripgrep
 scoop install s
