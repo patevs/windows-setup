@@ -12,6 +12,8 @@ function Test-Elevated {
   return $userPrincipal.IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)
 }
 
+# TODO: Exit if not running as administrator
+
 Push-Location ("scripts")
 
 # From within the ./scripts directory...
