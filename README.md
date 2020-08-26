@@ -18,8 +18,7 @@
 ```md
 .
 ├── docs                # Documentation
-├── scripts             # Additional scripts
-├── .commitlintrc.json  # Commitlint configuration
+├── scripts             # Setup scripts
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
 ├── .np-config.json     # NPM Publish (np) configuration
