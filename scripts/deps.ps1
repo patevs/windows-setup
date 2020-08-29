@@ -253,6 +253,7 @@ scoop install yarn
 # Shells and Terminals
 # scoop install cmder
 # scoop install conemu
+# scoop install nu
 scoop install pwsh
 # scoop install starship
 scoop install windows-terminal
