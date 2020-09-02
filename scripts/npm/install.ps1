@@ -16,21 +16,15 @@ TODO:
   3. (Optional) Upgrade global `NPM` installation.
   4. Install `NPM` global modules ensuring required dependencies are met for each.
 
-  Tested Node Versions:
-    * 13.11.0
-    * 12.16.1
-    * 10.19.0
-    * 8.17.0
-
   **NOTE** : This script will install the [`PSWriteColor`](https://github.com/EvotecIT/PSWriteColor) module.
 
 .EXAMPLE
-  .\globals.ps1
+  .\install.ps1
 
 .NOTES
-  File Name: globals.ps1
+  File Name: npm/install.ps1
   Author: PatEvs (https://github.com/patevs)
-  Last Edit: 28/03/2020
+  Last Edit: 02/09/2020 - 2nd September 2020
 
 .LINK
   Repository:
@@ -107,9 +101,32 @@ Write-Color " `n All Requirements Satisfied! ", "Beginning Install... `n" -C Whi
 
 # $nodeGlobals = Invoke-Expression "npm list --global --depth=0"
 
-Write-Color " Existing NPM Globals `n $nodeGlobals"
+# Write-Color " Existing NPM Globals `n $nodeGlobals"
 
 # Write-Color "Installing NPM Global Modules..." -StartSpaces 4
+
+npm install --global `
+add-gitignore `
+check-it-out `
+diff-so-fancy `
+g3l `
+gitmoji-cli `
+david `
+npm-check-updates `
+ntl `
+typescript `
+typesync `
+licensed `
+neovim `
+emus `
+tape-cli `
+react-devtools `
+ignite-cli `
+react-native-cli `
+gtop `
+open-cli `
+wifi-password-cli `
+corona-cli
 
 # ------------------------------------------------------------------------------------------- #
 
