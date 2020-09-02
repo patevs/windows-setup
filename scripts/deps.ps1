@@ -247,6 +247,7 @@ scoop install neovim
 scoop install ripgrep
 scoop install s
 # scoop install scrcpy
+scoop install wget
 scoop install winfetch
 scoop install yarn
 
