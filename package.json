@@ -14,8 +14,7 @@
     "git": ">=2.13.2"
   },
   "scripts": {
-    "release": "np",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "release": "np"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
