@@ -83,20 +83,20 @@ Install-Module -Name PowerShellGet -Force
 # Install-Module -Name Pester -Force -SkipPublisherCheck -Scope CurrentUser
 # Install-Module -Name Configuration
 
-Install-Module -Name PSReadLine -Scope CurrentUser # -Force
+Install-Module -Name PSReadLine # -Scope CurrentUser -Force
 # Install-Module -Name PSWindowsUpdate -Scope CurrentUser # -Force
-Install-Module -Name PSWriteColor -Scope CurrentUser # -Force
+Install-Module -Name PSWriteColor # -Scope CurrentUser -Force
 # Install-Module -Name PSKoans -Scope CurrentUser -Force
 # Install-Module -Name PSeudo -Scope CurrentUser -Force
 
-Install-Module -Name npm-completion -Scope CurrentUser # -Force
-Install-Module -Name posh-cargo -Scope CurrentUser -AllowClobber # -Force
+Install-Module -Name npm-completion # -Scope CurrentUser -Force
+Install-Module -Name posh-cargo -AllowClobber # -Scope CurrentUser -Force
 # Install-Module -Name posh-cli -Scope CurrentUser -Force
-Install-Module -Name posh-dotnet -Scope CurrentUser # -Force
-Install-Module -Name posh-git -Scope CurrentUser  -AllowClobber # -Force
+Install-Module -Name posh-dotnet # -Scope CurrentUser -Force
+Install-Module -Name posh-git -AllowClobber # -Scope CurrentUser -Force
 # Install-Module -Name posh-npm -Scope CurrentUser -Force
-Install-Module -Name scoop-completion -Scope CurrentUser -AllowClobber # -Force
-Install-Module -Name yarn-completion -Scope CurrentUser # -Force
+Install-Module -Name scoop-completion # -Scope CurrentUser -Force
+Install-Module -Name yarn-completion # -Scope CurrentUser
 
 # Install-Module Terminal-Icons -Scope CurrentUser -Force
 # Install-Module Get-ChildItemColor -Scope CurrentUser -Force
