@@ -52,8 +52,7 @@ if (!(Test-Elevated)) {
 Write-Host "Installing Package Providers..." -ForegroundColor "Yellow"
 
 # NuGet
-Get-PackageProvider NuGet -Force | Out-Null
-
+Get-PackageProvider NuGet -Force # | Out-Null
 # Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force
 # Import-PackageProvider NuGet -Force
 
@@ -85,7 +84,7 @@ Install-Module -Name PowerShellGet -Force
 # Install-Module -Name Configuration
 
 Install-Module -Name PSReadLine -Scope CurrentUser # -Force
-Install-Module -Name PSWindowsUpdate -Scope CurrentUser # -Force
+# Install-Module -Name PSWindowsUpdate -Scope CurrentUser # -Force
 Install-Module -Name PSWriteColor -Scope CurrentUser # -Force
 # Install-Module -Name PSKoans -Scope CurrentUser -Force
 # Install-Module -Name PSeudo -Scope CurrentUser -Force
