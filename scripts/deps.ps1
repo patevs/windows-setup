@@ -68,7 +68,7 @@ Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
 # PowerShell Modules
 # ==================
 
-# Write-Host "Installing PowerShell Modules..." -ForegroundColor "Yellow"
+Write-Host "Installing PowerShell Modules..." -ForegroundColor "Yellow"
 
 # TODO: Run this with powershell not pwsh to install globally
 # TODO: Uninstall/remove version 1.0.0.1
@@ -132,7 +132,6 @@ choco install jdk8
 # choco install nvm.portable        --limit-output
 # choco install poweriso
 # choco install pulseaudio
-# choco install pyenv-win
 # choco install reactotron
 # choco install rpi-imager
 # choco install rsvg-convert
