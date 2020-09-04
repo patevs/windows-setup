@@ -412,7 +412,7 @@ python3 -m pip install --upgrade neovim
 python3 -m pip install --upgrade thefuck
 
 # Python code static checker
-python3 -m pip install --upgrade pylint
+# python3 -m pip install --upgrade pylint
 
 # python3 -m pip install --upgrade wakatime
 
