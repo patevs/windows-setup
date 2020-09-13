@@ -143,6 +143,7 @@ choco install visualstudio2019buildtools
 choco install vscode.install
 # choco install webpi               --limit-output
 # choco install winmerge            --limit-output
+# choco install yarn
 
 # Fonts
 # choco install sourcecodepro       --limit-output
