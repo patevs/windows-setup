@@ -252,6 +252,7 @@
 [](.)
 
 * [`react-scaffolder`](https://github.com/dzervoudakes/react-scaffolder)
+* [`generator-react-webpack`](https://github.com/react-webpack-generators/generator-react-webpack)
 * [`ozone-ui`](https://www.npmjs.com/package/generator-ozone-ui)
 
 [](.)
