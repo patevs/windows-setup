@@ -251,6 +251,10 @@
 
 [](.)
 
+* [`react-scaffolder`](https://github.com/dzervoudakes/react-scaffolder)
+
+[](.)
+
 * [`generator-rn-toolbox`](https://github.com/bamlab/generator-rn-toolbox) Generators to kickstart your react-native v0.48+ projects.
 
 ---
