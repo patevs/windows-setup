@@ -251,9 +251,9 @@
 
 [](.)
 
-* [`generator-react-scaffolder`](https://github.com/dzervoudakes/react-scaffolder)
-* [`generator-react-webpack`](https://github.com/react-webpack-generators/generator-react-webpack)
-* [`generator-ozone-ui`](https://www.npmjs.com/package/generator-ozone-ui)
+* [`generator-react-scaffolder`](https://github.com/dzervoudakes/react-scaffolder) Enterprise scale React applications on the fly.
+* [`generator-react-webpack`](https://github.com/react-webpack-generators/generator-react-webpack) Generator for ReactJS and Webpack.
+* [`generator-ozone-ui`](https://www.npmjs.com/package/generator-ozone-ui) Create react app with extra features for rapid development.
 
 [](.)
 
