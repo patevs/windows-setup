@@ -195,6 +195,7 @@
 
 * [`lighthouse`](https://github.com/GoogleChrome/lighthouse) Automated auditing, performance metrics, and best practices for the web.
 * [`lighthouse-security`](https://github.com/voorhoede/lighthouse-security) Runs the default Google Lighthouse tests with additional security tests.
+* [`npm-audit-html`](https://github.com/eventOneHQ/npm-audit-html) Generate a HTML report for NPM Audit.
 * [`pwmetrics`](https://github.com/paulirish/pwmetrics) CLI tool and lib to gather performance metrics via [`Lighthouse`](https://github.com/GoogleChrome/lighthouse).
 * [`is-website-vulnerable`](https://github.com/lirantal/is-website-vulnerable) Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 * [`yarn-audit-html`](https://github.com/davityavryan/yarn-audit-html) Generate a HTML report for Yarn Audit.
