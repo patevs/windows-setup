@@ -220,6 +220,7 @@
 * [`node-passgen-cli`](https://github.com/jhotmann/node-passgen-cli) A simple cli tool for generating passwords.
 * [`open-cli`](https://github.com/sindresorhus/open-cli) Open stuff like URLs, files, executables. Cross-platform.
 * [`pageres-cli`](https://github.com/sindresorhus/pageres-cli) Capture website screenshots.
+* [`public-ip-cli`](https://github.com/sindresorhus/public-ip-cli) Get your public IP address.
 * [`screensaver`](https://github.com/gillstrom/screensaver) Start the screensaver.
 * [`share-cli`](https://github.com/marionebl/share-cli) Quickly share files from the command line.
 * [`trash-cli`](https://github.com/sindresorhus/trash-cli) Move files and folders to the trash.
