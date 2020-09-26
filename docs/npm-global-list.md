@@ -111,6 +111,7 @@
 * [`Font-Awesome-SVG-PNG`](https://github.com/encharm/Font-Awesome-SVG-PNG) Font Awesome split to individual SVG and PNG files.
   * *Note* - Requires [`rsvg-convert`](https://chocolatey.org/packages/rsvg-convert) to be installed.
 * [`foy`](https://github.com/zaaack/foy) A simple, light-weight and modern task runner for general purpose.
+* [`hotel`](https://github.com/typicode/hotel) Start apps from your browser and access them using local domains.
 * [`Jsome`](https://github.com/Javascipt/Jsome) Give style to your JSON on your console!
 * [`licensed`](https://github.com/plibither8/licensed) Interactive command line tool to help you choose and add licenses to your projects
 * [`loadtest`](https://github.com/alexfernandez/loadtest) Runs a load test on the selected HTTP or WebSockets URL.
