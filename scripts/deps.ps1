@@ -249,7 +249,6 @@ scoop install ripgrep
 scoop install s
 # scoop install scrcpy
 scoop install wget
-scoop install winfetch
 scoop install yarn
 
 # Shells and Terminals
@@ -269,6 +268,7 @@ scoop install onefetch
 
 # System Utilities
 scoop install speedtest-cli
+scoop install winfetch
 
 # Applications
 scoop install android-studio
@@ -282,7 +282,7 @@ scoop install ccleaner
 scoop install inkscape
 # scoop install logitech-gaming-software-np
 scoop install powertoys
-scoop install processhacker
+# scoop install processhacker
 # scoop install rufus
 scoop install snappy-driver-installer-origin
 scoop install speccy
@@ -291,7 +291,7 @@ scoop install sumatrapdf
 scoop install teracopy-np
 # scoop install virtualbox-np
 # scoop install virtualbox-with-extension-pack-np
-scoop install vncviewer
+# scoop install vncviewer
 # scoop install vscodium
 # scoop install win32-disk-imager
 # scoop install zeal
