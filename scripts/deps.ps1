@@ -267,6 +267,9 @@ scoop install hub
 # scoop install lazygit
 scoop install onefetch
 
+# System Utilities
+scoop install speedtest-cli
+
 # Applications
 scoop install android-studio
 # scoop install android-sdk
