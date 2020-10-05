@@ -249,6 +249,7 @@ scoop install ripgrep
 scoop install s
 # scoop install scrcpy
 scoop install wget
+# scoop install xampp # Must be run as admin
 scoop install yarn
 
 # Shells and Terminals
