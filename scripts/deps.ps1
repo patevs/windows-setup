@@ -248,6 +248,7 @@ scoop install neovim
 scoop install ripgrep
 scoop install s
 # scoop install scrcpy
+# scoop install vagrant
 scoop install wget
 # scoop install xampp # Must be run as admin
 scoop install yarn
