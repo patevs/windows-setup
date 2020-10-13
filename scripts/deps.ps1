@@ -283,6 +283,7 @@ scoop install ccleaner
 # scoop install imagemagick
 scoop install inkscape
 # scoop install logitech-gaming-software-np
+scoop install nuclear
 scoop install powertoys
 # scoop install processhacker
 # scoop install rufus
