@@ -263,6 +263,7 @@ scoop install pwsh
 scoop install windows-terminal
 
 # Git Tools
+scoop install gh
 # scoop install github
 # scoop install gitkraken
 scoop install hub
