@@ -194,6 +194,7 @@ Invoke-Expression "scoop bucket add nonportable"
 Invoke-Expression "scoop bucket add nerd-fonts"
 # Invoke-Expression "scoop bucket add scoop-bucket https://github.com/Rigellute/scoop-bucket"
 Invoke-Expression "scoop bucket add scoop-completion https://github.com/Moeologist/scoop-completion"
+Invoke-Expression "scoop bucket add github-gh https://github.com/cli/scoop-gh.git"
 
 # Fix for scoop-completion error: https://github.com/lukesampson/scoop/issues/3528
 Invoke-Expression "scoop config alias @{}"
