@@ -397,13 +397,14 @@ if (Get-Command go) {
 function Install-GoTools {
   # GoCode
   # Invoke-Expression "go get -u github.com/mdempsky/gocode"
-  Invoke-Expression "go get -u -ldflags -H=windowsgui github.com/mdempsky/gocode"
+  # Invoke-Expression "go get -u -ldflags -H=windowsgui github.com/mdempsky/gocode"
+  # GoCode-GoMod
+  # Invoke-Expression "go get -u github.com/stamblerre/gocode"
+  Invoke-Expression "go get -u -ldflags -H=windowsgui github.com/stamblerre/gocode"
   # GoPkgs
   Invoke-Expression "go get -u github.com/uudashr/gopkgs/cmd/gopkgs"
   # Go-Outline
   Invoke-Expression "go get -u github.com/lukehoban/go-outline"
-  # GoCode-GoMod
-  # Invoke-Expression "go get -u github.com/stamblerre/gocode"
   # GoDef
   Invoke-Expression "go get -u github.com/rogpeppe/godef"
   # GoReturns
