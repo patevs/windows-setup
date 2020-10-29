@@ -386,7 +386,7 @@ if (Get-Command go) {
   # Invoke-Expression "go get -u github.com/isacikgoz/gitbatch/cmd/gitbatch"
   Invoke-Expression "go get -u github.com/xxxserxxx/gotop/cmd/gotop"
   # Invoke-Expression "go get github.com/dborzov/lsp"
-  Invoke-Expression "go get github.com/shilangyu/scoop-search"
+  Invoke-Expression "go get -u github.com/shilangyu/scoop-search"
   # Invoke-Expression "go get github.com/shilangyu/typer-go"
 } else {
   Write-Host "ERROR Go is not install!" -ForegroundColor "Red"
@@ -395,22 +395,41 @@ if (Get-Command go) {
 # Install Go tools and utilities
 function Install-GoTools {
   # GoCode
+  # Invoke-Expression "go get -u github.com/mdempsky/gocode"
+  Invoke-Expression "go get -u -ldflags -H=windowsgui github.com/mdempsky/gocode"
   # GoPkgs
+  Invoke-Expression "go get -u github.com/uudashr/gopkgs/cmd/gopkgs"
   # Go-Outline
+  Invoke-Expression "go get -u github.com/lukehoban/go-outline"
   # GoCode-GoMod
+  # Invoke-Expression "go get -u github.com/stamblerre/gocode"
   # GoDef
+  Invoke-Expression "go get -u github.com/rogpeppe/godef"
   # GoReturns
+  Invoke-Expression "go get -u github.com/sqs/goreturns"
   # GoLint
+  Invoke-Expression "go get -u golang.org/x/lint/golint"
 
   # Go-Symbols
+  Invoke-Expression "go get -u github.com/newhook/go-symbols"
   # Guru
+  Invoke-Expression "go get -u golang.org/x/tools/cmd/guru"
   # GoRename
+  Invoke-Expression "go get -u golang.org/x/lint/cmd/gorename"
   # GoTests
+  Invoke-Expression "go get -u github.com/cweill/gotests/..."
   # GoModifyTags
+  Invoke-Expression "go get -u github.com/fatih/gomodifytags"
   # Impl
+  Invoke-Expression "go get -u github.com/josharian/impl"
   # Fillstrut
+  Invoke-Expression "go get -u github.com/davidjenni/reftools/cmd/fillstrut"
   # GoPlay
+  Invoke-Expression "go get -u github.com/haya14bvsa/goplay/cmd/goplay"
+  # GoDoctor
+  Invoke-Expression "go get -u github.com/godoctor/godoctor"
   # Delve
+  Invoke-Expression "go get -u github.com/go-delve/delve/cmd/dlv"
 }
 
 # ------------------------------------------------------------------------------------------------------- #
