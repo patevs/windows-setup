@@ -392,6 +392,27 @@ if (Get-Command go) {
   Write-Host "ERROR Go is not install!" -ForegroundColor "Red"
 }
 
+# Install Go tools and utilities
+function Install-GoTools {
+  # GoCode
+  # GoPkgs
+  # Go-Outline
+  # GoCode-GoMod
+  # GoDef
+  # GoReturns
+  # GoLint
+
+  # Go-Symbols
+  # Guru
+  # GoRename
+  # GoTests
+  # GoModifyTags
+  # Impl
+  # Fillstrut
+  # GoPlay
+  # Delve
+}
+
 # ------------------------------------------------------------------------------------------------------- #
 
 # Python2 Installs
