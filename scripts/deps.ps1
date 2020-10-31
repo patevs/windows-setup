@@ -233,6 +233,7 @@ scoop install dust
 scoop install fd
 # scoop install fzf
 # scoop install gow
+scoop install gpg
 # scoop install grex
 # scoop install heroku-cli
 # scoop install hugo
