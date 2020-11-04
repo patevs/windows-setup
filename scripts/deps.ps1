@@ -127,6 +127,7 @@ choco install 7zip.install
 # choco install driverbooster
 # choco install Fiddler             --limit-output
 choco install git.install
+choco install Gpg4win
 choco install jdk8
 # choco install nodejs-lts
 # choco install nuget.commandline   --limit-output
