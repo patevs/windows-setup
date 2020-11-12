@@ -132,6 +132,7 @@ choco install jdk8
 # choco install nodejs-lts
 # choco install nuget.commandline   --limit-output
 # choco install nvm.portable        --limit-output
+choco install openjdk11
 # choco install poweriso
 # choco install pulseaudio
 # choco install reactotron
