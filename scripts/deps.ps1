@@ -275,6 +275,7 @@ scoop install hub
 scoop install onefetch
 
 # System Utilities
+scoop install gping
 scoop install speedtest-cli
 scoop install winfetch
 
