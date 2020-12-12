@@ -175,6 +175,7 @@
 
 * [`create-react-app`](https://github.com/facebook/create-react-app) Create React apps with no build configuration.
 * [`generact`](https://github.com/diegohaz/generact) Tool for generating React components by replicating your own.
+* [`guppy`](https://github.com/joshwcomeau/guppy) A friendly application manager and task runner for React.js
 * [`react-devtools`](https://github.com/facebook/react/tree/master/packages/react-devtools) React app debugger.
 
 ---
