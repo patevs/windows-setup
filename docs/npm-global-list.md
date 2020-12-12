@@ -50,6 +50,7 @@
 * [`emma-cli`](https://github.com/maticzav/emma-cli) Terminal assistant to find and install node packages.
 * [`install-peerdeps`](https://github.com/nathanhleung/install-peerdeps) CLI to install an NPM package and its peer dependencies automatically.
 * [`ncc`](https://github.com/vercel/ncc) CLI for compiling a Node.js module into a single file, together with all its dependencies.
+* [`njt`](https://github.com/kachkaev/njt) npm jump to - a quick navigation tool for npm packages.
 * [`node-clinic`](https://github.com/nearform/node-clinic) An Open Source Node.js performance profiling suite.
 * [`npm-audit-helper`](https://github.com/rouanw/npm-audit-helper) Helps you understand and work through npm audit results.
 * [`npm-check`](https://github.com/dylang/npm-check) Check for outdated, incorrect, and unused dependencies.
