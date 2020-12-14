@@ -128,11 +128,12 @@ choco install 7zip.install
 # choco install Fiddler             --limit-output
 choco install git.install
 choco install Gpg4win
-choco install jdk8
+# choco install jdk8
 # choco install nodejs-lts
 # choco install nuget.commandline   --limit-output
 # choco install nvm.portable        --limit-output
-choco install openjdk11
+choco install openjdk # java 15
+# choco install openjdk11
 # choco install poweriso
 # choco install pulseaudio
 # choco install reactotron
