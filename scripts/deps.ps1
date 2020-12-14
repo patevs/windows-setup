@@ -314,6 +314,7 @@ scoop install teracopy-np
 
 # Databases
 scoop install mysql
+scoop install mysql-workbench
 # scoop install postgresql
 # scoop install pgadmin4-np
 # scoop install sqlite
