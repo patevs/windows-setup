@@ -246,6 +246,7 @@ scoop install jq
 scoop install less
 scoop install lsd
 # scoop install make
+scoop install maven
 scoop install msys2
 scoop install neovim
 # scoop install ninja
