@@ -429,7 +429,7 @@ function Install-GoTools {
   # Guru
   Invoke-Expression "go get -u golang.org/x/tools/cmd/guru"
   # GoRename
-  Invoke-Expression "go get -u golang.org/x/lint/cmd/gorename"
+  Invoke-Expression "go get -u golang.org/x/tools/cmd/gorename"
   # GoTests
   Invoke-Expression "go get -u github.com/cweill/gotests/..."
   # GoModifyTags
