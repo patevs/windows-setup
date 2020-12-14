@@ -252,6 +252,7 @@ scoop install neovim
 # scoop install ninja
 # scoop install nmap
 # scoop install NuGet
+scoop install postman
 scoop install ripgrep
 scoop install s
 # scoop install scrcpy
@@ -312,6 +313,7 @@ scoop install teracopy-np
 # scoop install zeal
 
 # Databases
+scoop install mysql
 # scoop install postgresql
 # scoop install pgadmin4-np
 # scoop install sqlite
