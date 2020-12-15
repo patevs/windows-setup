@@ -217,6 +217,12 @@ scoop install scoop-completion
 # Programming Languages
 # scoop install dotnet-sdk
 scoop install go
+# java 8
+# scoop install ojdkbuild8
+# java 11
+# scoop install openjdk11
+# java 15
+scoop install openjdk
 scoop install nodejs-lts
 scoop install perl
 scoop install python
