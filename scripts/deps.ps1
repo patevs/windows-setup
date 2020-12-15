@@ -298,6 +298,7 @@ scoop install bulk-crap-uninstaller
 scoop install ccleaner
 # scoop install copyq
 # scoop install draw.io
+scoop install eclipse-java
 # scoop install etcher
 # scoop install imagemagick
 scoop install inkscape
