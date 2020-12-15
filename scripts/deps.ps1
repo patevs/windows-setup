@@ -439,7 +439,7 @@ function Install-GoTools {
   # Fillstrut
   Invoke-Expression "go get -u github.com/davidrjenni/reftools/cmd/fillstrut"
   # GoPlay
-  Invoke-Expression "go get -u github.com/haya14bvsa/goplay/cmd/goplay"
+  # Invoke-Expression "go get -u github.com/haya14bvsa/goplay/cmd/goplay"
   # GoDoctor
   Invoke-Expression "go get -u github.com/godoctor/godoctor"
   # Delve
