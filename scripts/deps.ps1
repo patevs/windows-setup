@@ -479,6 +479,7 @@ python2 -m pip install --upgrade neovim
 python3 -m pip install --upgrade pip
 # python3 -m pip install --user --upgrade setuptools
 python3 -m pip install --upgrade setuptools
+python3 -m pip install --upgrade wheel
 
 # python3 -m pip install --upgrade pipx
 # python3 -m pipx ensurepath
