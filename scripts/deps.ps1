@@ -262,6 +262,7 @@ scoop install postman
 scoop install ripgrep
 scoop install s
 # scoop install scrcpy
+scoop install tokei
 # scoop install vagrant
 scoop install wget
 # scoop install xampp # Must be run as admin
