@@ -108,6 +108,7 @@
 ## Development Utilities
 
 * [`bower`](https://github.com/bower/bower) A package manager for the web.
+* [`catj`](https://github.com/soheilpro/catj) Displays JSON files in a flat format.
 * [`destiny`](https://github.com/benawad/destiny) Prettier for File Structures.
 * [`devion`](https://github.com/alchaplinsky/devion) One Command to Run All your Projects in Development.
 * [`Font-Awesome-SVG-PNG`](https://github.com/encharm/Font-Awesome-SVG-PNG) Font Awesome split to individual SVG and PNG files.
