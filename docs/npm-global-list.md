@@ -113,6 +113,7 @@
 * [`devion`](https://github.com/alchaplinsky/devion) One Command to Run All your Projects in Development.
 * [`Font-Awesome-SVG-PNG`](https://github.com/encharm/Font-Awesome-SVG-PNG) Font Awesome split to individual SVG and PNG files.
   * *Note* - Requires [`rsvg-convert`](https://chocolatey.org/packages/rsvg-convert) to be installed.
+* [`fixjson`](https://github.com/rhysd/fixjson) JSON Fixer for Humans using (relaxed) JSON5.
 * [`foy`](https://github.com/zaaack/foy) A simple, light-weight and modern task runner for general purpose.
 * [`hotel`](https://github.com/typicode/hotel) Start apps from your browser and access them using local domains.
 * [`Jsome`](https://github.com/Javascipt/Jsome) Give style to your JSON on your console!
