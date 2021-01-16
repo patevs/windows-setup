@@ -224,6 +224,7 @@
 * [`google-font-installer`](https://github.com/lordgiotto/google-font-installer) Download and install Google Web Fonts on your local machine.
 * [`gtop`](https://github.com/aksakalli/gtop) System monitoring dashboard for terminal.
 * [`incognitoz`](https://github.com/piotrwawrzyn/incognitoz) Open as many incognito pages with different context as you wish.
+* [`mon`](https://github.com/soheilpro/mon) Painless performance monitoring for Windows.
 * [`node-passgen-cli`](https://github.com/jhotmann/node-passgen-cli) A simple cli tool for generating passwords.
 * [`open-cli`](https://github.com/sindresorhus/open-cli) Open stuff like URLs, files, executables. Cross-platform.
 * [`pageres-cli`](https://github.com/sindresorhus/pageres-cli) Capture website screenshots.
