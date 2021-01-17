@@ -132,7 +132,7 @@ choco install Gpg4win
 # choco install nodejs-lts
 # choco install nuget.commandline   --limit-output
 # choco install nvm.portable        --limit-output
-choco install openjdk # java 15
+# choco install openjdk # java 15
 # choco install openjdk11
 # choco install poweriso
 # choco install pulseaudio
@@ -304,7 +304,7 @@ scoop install eclipse-java
 scoop install inkscape
 # scoop install logitech-gaming-software-np
 scoop install notepadplusplus
-scoop install nuclear
+# scoop install nuclear
 scoop install powertoys
 # scoop install processhacker
 # scoop install rufus
