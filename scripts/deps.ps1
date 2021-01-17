@@ -126,6 +126,7 @@ choco install 7zip.install
 # choco install dexpot
 # choco install driverbooster
 # choco install Fiddler             --limit-output
+choco install files
 choco install git.install
 choco install gotop
 choco install Gpg4win
