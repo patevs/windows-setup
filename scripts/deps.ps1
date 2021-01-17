@@ -310,7 +310,7 @@ scoop install powertoys
 # scoop install rufus
 scoop install snappy-driver-installer-origin
 scoop install speccy
-scoop install sublime-text
+# scoop install sublime-text
 scoop install sumatrapdf
 scoop install teracopy-np
 # scoop install virtualbox-np
