@@ -293,7 +293,7 @@ scoop install android-studio
 # scoop install android-sdk
 # scoop install atom
 scoop install azure-cli
-scoop install azure-functions-core-tools
+# scoop install azure-functions-core-tools
 scoop install bulk-crap-uninstaller
 scoop install ccleaner
 # scoop install copyq
