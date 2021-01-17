@@ -127,7 +127,7 @@ choco install 7zip.install
 # choco install driverbooster
 # choco install Fiddler             --limit-output
 # NOTE: Requires `Install-Package Microsoft.UI.Xaml`
-choco install files
+# choco install files
 choco install git.install
 choco install gotop
 choco install Gpg4win
@@ -408,7 +408,6 @@ Write-Host "Installing Go Tools..." -ForegroundColor "Yellow"
 if (Get-Command go) {
   Install-GoTools
   # Invoke-Expression "go get -u github.com/isacikgoz/gitbatch/cmd/gitbatch"
-  # Invoke-Expression "go get -u github.com/xxxserxxx/gotop/cmd/gotop"
   # Invoke-Expression "go get github.com/dborzov/lsp"
   Invoke-Expression "go get -u github.com/shilangyu/scoop-search"
   # Invoke-Expression "go get github.com/shilangyu/typer-go"
@@ -583,7 +582,6 @@ gem install solargraph
 # cargo install eva
 # NOTE: Requires llvm to be installed (choco install llvm)
 # cargo install git-delta
-# cargo install tokei
 
 # ------------------------------------------------------------------------------------------------------- #
 
