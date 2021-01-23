@@ -215,6 +215,7 @@ scoop install dark
 scoop install lessmsi
 scoop install aria2
 scoop install scoop-completion
+scoop install scoop-search
 
 # Programming Languages
 # scoop install dotnet-sdk
