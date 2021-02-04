@@ -138,6 +138,7 @@
   * [`tldr-node-client`](https://github.com/tldr-pages/tldr-node-client) Command line client for TLDR-pages.
 * [`underscore-cli`](https://github.com/ddopson/underscore-cli) Command-line utility-belt for hacking JSON and Javascript.
 * [`viewport-list-cli`](https://github.com/kevva/viewport-list-cli) Return a list of devices and their viewports.
+* [`wappalzer`](https://github.com/AliasIO/wappalyzer) Identify technology on websites.
 
 ---
 
