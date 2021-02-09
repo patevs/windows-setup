@@ -272,7 +272,7 @@ CALL npm install --global emus
 :: CALL npm install --global mobisplash-cli
 :: # https://github.com/wswebcreation/start-android-emulator
 :: CALL npm install --global start-android-emulator
-CALL npm install --global tape-cli
+:: CALL npm install --global tape-cli
 
 :: ---------------------------------------------------------------------------- ::
 
@@ -326,7 +326,7 @@ CALL npm install --global react-native-cli
 ECHO. & ECHO  [44m Installing System Utility Modules: [0m & ECHO.
 
 :: # https://github.com/sindresorhus/del-cli
-:: CALL npm install --global del-cli
+CALL npm install --global del-cli
 :: # https://github.com/sindresorhus/empty-trash-cli
 :: CALL npm install --global empty-trash-cli
 :: # https://github.com/sindresorhus/fkill-cli
@@ -414,7 +414,7 @@ ECHO. & ECHO  [44m Installing Miscellaneous Modules: [0m & ECHO.
 :: # https://github.com/rafaelrinaldi/whereami
 :: CALL npm install --global @rafaelrinaldi/whereami
 :: # https://github.com/ahmadawais/corona-cli
-CALL npm install --global corona-cli
+:: CALL npm install --global corona-cli
 :: # https://github.com/nogizhopaboroda/iponmap
 :: CALL npm install --global iponmap
 :: # https://github.com/denysdovhan/learnyoubash
