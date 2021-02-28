@@ -290,7 +290,7 @@ scoop install onefetch
 # System Utilities
 scoop install gping
 scoop install speedtest-cli
-scoop install winfetch
+# scoop install winfetch
 
 # Applications
 scoop install android-studio
