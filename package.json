@@ -14,6 +14,7 @@
     "git": ">=2.13.2"
   },
   "scripts": {
+    "updates": "npx ncu",
     "release": "np"
   },
   "devDependencies": {
