@@ -219,6 +219,7 @@ scoop install scoop-search
 
 # Programming Languages
 # scoop install dotnet-sdk
+scoop install flutter
 scoop install go
 # java 8
 # scoop install ojdkbuild8
