@@ -259,6 +259,7 @@
 
 [](.)
 
+* [`generator-express-no-stress-typescript`](https://github.com/cdimascio/generator-express-no-stress-typescript) Express.js based 12-factor apps and apis using Typescript.
 * [`generator-node-typescript`](https://github.com/ospatil/generator-node-typescript) Generator for creating NodeJS packages using `TypeScript` with `Jest`
 * [`generator-typescript-starter`](https://github.com/phunguyen19/generator-typescript-starter) `Typescript` Starter Generator with `Ava`
 
