@@ -380,6 +380,8 @@ CALL npm install --global wifi-password-cli
 :: CALL npm install --global generator-node
 
 :: Typescript
+:: (Express)
+:: CALL npm install --global generator-express-no-stress-typescript
 :: (Jest)
 :: # https://github.com/ospatil/generator-node-typescript
 :: CALL npm install --global generator-node-typescript
