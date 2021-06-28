@@ -1,6 +1,5 @@
-# -------- #
-# deps.ps1 #
-# -------- #
+# deps.ps1
+# --------
 
 Write-Host "" # New Line
 

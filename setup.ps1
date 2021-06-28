@@ -1,6 +1,5 @@
-# --------- #
-# setup.ps1 #
-# --------- #
+# setup.ps1
+# ---------
 
 # Test if running as administrator
 # http://serverfault.com/questions/95431
