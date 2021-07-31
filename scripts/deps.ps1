@@ -288,6 +288,7 @@ scoop install hub
 scoop install onefetch
 
 # System Utilities
+scoop install bottom
 scoop install ferdi
 scoop install gping
 scoop install speedtest-cli
