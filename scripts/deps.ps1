@@ -207,6 +207,7 @@ Invoke-Expression "scoop config alias @{}"
 Write-Host "Installing Scoop Packages..." -ForegroundColor "Yellow"
 
 # Scoop Utilities
+# scoop install gsudo
 scoop install sudo
 scoop install 7zip
 scoop install innounp
