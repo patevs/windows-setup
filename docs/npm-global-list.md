@@ -226,6 +226,7 @@
 * [`gtop`](https://github.com/aksakalli/gtop) System monitoring dashboard for terminal.
 * [`incognitoz`](https://github.com/piotrwawrzyn/incognitoz) Open as many incognito pages with different context as you wish.
 * [`mon`](https://github.com/soheilpro/mon) Painless performance monitoring for Windows.
+* [`n8n`](https://github.com/n8n-io/n8n) Extendable workflow automation tool. Easily automate tasks across different services.
 * [`node-passgen-cli`](https://github.com/jhotmann/node-passgen-cli) A simple cli tool for generating passwords.
 * [`open-cli`](https://github.com/sindresorhus/open-cli) Open stuff like URLs, files, executables. Cross-platform.
 * [`pageres-cli`](https://github.com/sindresorhus/pageres-cli) Capture website screenshots.
