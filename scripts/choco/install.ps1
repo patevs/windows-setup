@@ -1,6 +1,5 @@
-# ----------------- #
-# choco/install.ps1 #
-# ----------------- #
+# choco/install.ps1
+# -----------------
 
 # PowerShell script used to install chocolatey package manager.
 # NOTE: This script must be run as administrator.

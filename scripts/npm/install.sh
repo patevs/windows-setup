@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# ---------------------- #
-# npm/install.sh #
-# -------------- #
+# npm/install.sh
+# --------------
 
 # Bash script to install useful NPM global modules.
 # Requires NodeJS and NPM to be installed.

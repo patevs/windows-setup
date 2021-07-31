@@ -1,8 +1,7 @@
 @ECHO OFF
 
-:: --------------- ::
-:: npm/install.cmd ::
-:: --------------- ::
+:: npm/install.cmd
+:: ---------------
 
 :: Batch script which installs various useful NPM global modules.
 :: Requires NodeJS and NPM to be installed.
