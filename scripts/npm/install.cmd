@@ -222,6 +222,7 @@ CALL npm install --global licensed
 :: CALL npm install --global nativefier
 ::: # https://github.com/neovim/node-client
 CALL npm install --global neovim
+:: CALL npm install --global newman
 :: # https://github.com/jhotmann/node-passgen-cli
 :: CALL npm install --global passgen-cli
 :: # https://github.com/sdras/project-explorer
