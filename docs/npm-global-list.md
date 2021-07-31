@@ -126,6 +126,7 @@
   * *Note* - Requires `bash` - Try [`licensed`](https://github.com/plibither8/licensed) instead.
 * [`nativefier`](https://github.com/jiahaog/nativefier) Make any web page a desktop application.
 * [`neovim/node-client`](https://github.com/neovim/node-client) Nvim Node.js client and plugin host.
+* [`newman`](https://github.com/postmanlabs/newman) Command-line collection runner for Postman.
 * [`node-csvtojson`](https://github.com/Keyang/node-csvtojson) Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 * [`node-rename-cli`](https://github.com/jhotmann/node-rename-cli) A tool for renaming files quickly, especially multiple files at once.
 * [`project-explorer`](https://github.com/sdras/project-explorer) CLI tool to create an annotated tree visualization of any project.
