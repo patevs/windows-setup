@@ -280,6 +280,7 @@ scoop install pwsh
 scoop install windows-terminal
 
 # Git Tools
+scoop install delta
 scoop install gh
 # scoop install github
 # scoop install gitkraken
