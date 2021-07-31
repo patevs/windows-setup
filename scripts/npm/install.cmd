@@ -337,6 +337,7 @@ CALL npm install --global del-cli
 CALL npm install --global gtop
 :: CALL npm install --global incognitoz
 CALL npm install --global monjs
+:: CALL npm install --global n8n
 CALL npm install --global open-cli
 :: # https://github.com/sindresorhus/pageres-cli
 :: CALL npm install --global pageres-cli
