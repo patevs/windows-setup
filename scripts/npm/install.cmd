@@ -258,6 +258,7 @@ CALL npm install --global neovim
 CALL npm install --global wappalyzer
 :: # https://github.com/yui/yuglify
 :: CALL npm install --global yuglify
+:: CALL npm install --global zx
 
 :: ---------------------------------------------------------------------------- ::
 
