@@ -270,6 +270,7 @@ scoop install tokei
 # scoop install vagrant
 scoop install wget
 # scoop install xampp # Must be run as admin
+scoop install xh
 scoop install yarn
 
 # Shells and Terminals
