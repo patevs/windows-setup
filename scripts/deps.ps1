@@ -379,6 +379,8 @@ scoop cache rm *
 
 # https://github.com/bill-auger/git-branch-status
 
+# https://github.com/arzzen/git-quick-stats
+
 # neofetch (scoop -> requires git)
 # https://github.com/dylanaraps/neofetch/
 
