@@ -242,6 +242,7 @@ scoop install rustup
 scoop install bat
 # scoop install cmake
 # scoop install colortool
+scoop install duf
 scoop install dust
 scoop install fd
 # scoop install fzf
