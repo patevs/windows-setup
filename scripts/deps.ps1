@@ -305,6 +305,7 @@ scoop install android-studio
 # scoop install atom
 scoop install azure-cli
 # scoop install azure-functions-core-tools
+scoop install azuredatastudio
 scoop install bulk-crap-uninstaller
 scoop install ccleaner
 # scoop install copyq
