@@ -295,6 +295,7 @@ scoop install onefetch
 scoop install bottom
 scoop install ferdi
 scoop install gping
+scoop install powerping
 scoop install procs
 scoop install speedtest-cli
 # scoop install winfetch
