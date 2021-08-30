@@ -502,6 +502,7 @@ python3 -m pip install --upgrade wheel
 
 python3 -m pip install --upgrade neovim
 python3 -m pip install --upgrade pirate-get
+python3 -m pip install --upgrade pwy
 python3 -m pip install --upgrade thefuck
 
 # Python code static checker
