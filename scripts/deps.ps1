@@ -121,6 +121,7 @@ choco feature enable -n=allowGlobalConfirmation
 
 # System and Development Tools
 choco install 7zip.install
+choco install cpufetch
 # choco install curl                --limit-output
 # choco install dexpot
 # choco install driverbooster
