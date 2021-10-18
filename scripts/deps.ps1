@@ -294,7 +294,7 @@ scoop install onefetch
 
 # System Utilities
 scoop install bottom
-scoop install ferdi
+# scoop install ferdi
 scoop install gping
 scoop install macchina
 # scoop install powerping
