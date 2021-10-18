@@ -162,6 +162,7 @@ choco install GoogleChrome          # --limit-output; <# pin; evergreen #> choco
 # choco install Explorerplusplus
 choco install figma
 choco install gimp
+choco install powertoys
 choco install qbittorrent
 choco install revo-uninstaller
 # choco install shortcut.install
