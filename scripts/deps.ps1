@@ -300,7 +300,7 @@ scoop install macchina
 # scoop install powerping
 scoop install procs
 scoop install speedtest-cli
-# scoop install winfetch
+scoop install winfetch
 
 # Applications
 scoop install android-studio
