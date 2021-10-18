@@ -320,7 +320,6 @@ scoop install inkscape
 # scoop install logitech-gaming-software-np
 scoop install notepadplusplus
 # scoop install nuclear
-scoop install powertoys
 # scoop install processhacker
 # scoop install rufus
 scoop install snappy-driver-installer-origin
