@@ -282,7 +282,7 @@ scoop install yarn
 # scoop install nu
 scoop install pwsh
 # scoop install starship
-scoop install windows-terminal
+# scoop install windows-terminal
 
 # Git Tools
 scoop install delta
