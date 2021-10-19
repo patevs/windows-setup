@@ -132,6 +132,7 @@ choco install git.install
 choco install gotop
 choco install Gpg4win
 # choco install jdk8
+choco install microsoft-windows-terminal
 # choco install nodejs-lts
 # choco install nuget.commandline   --limit-output
 # choco install nvm.portable        --limit-output
