@@ -342,6 +342,7 @@ scoop install teracopy-np
 # scoop install zeal
 
 # Databases
+scoop install dbeaver
 scoop install mysql
 scoop install mysql-workbench
 # scoop install postgresql
