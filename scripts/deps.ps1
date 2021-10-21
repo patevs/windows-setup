@@ -152,6 +152,10 @@ choco install vscode.install
 # choco install winmerge            --limit-output
 # choco install yarn
 
+# Databases
+# choco install mysql
+# choco install mysql.workbench --version=8.0.26
+
 # Fonts
 # choco install sourcecodepro       --limit-output
 
