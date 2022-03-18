@@ -52,6 +52,7 @@
 * [`ncc`](https://github.com/vercel/ncc) CLI for compiling a Node.js module into a single file, together with all its dependencies.
 * [`njt`](https://github.com/kachkaev/njt) npm jump to - a quick navigation tool for npm packages.
 * [`node-clinic`](https://github.com/nearform/node-clinic) An Open Source Node.js performance profiling suite.
+* [`node-installed-check`](https://github.com/voxpelli/node-installed-check) Checks that the installed modules comply fulfill the requirements of `package.json`.
 * [`npm-audit-helper`](https://github.com/rouanw/npm-audit-helper) Helps you understand and work through npm audit results.
 * [`npm-check`](https://github.com/dylang/npm-check) Check for outdated, incorrect, and unused dependencies.
 * [`npm-check-updates`](https://github.com/tjunnone/npm-check-updates) Find newer versions of package dependencies than what your package.json allows.
