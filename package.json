@@ -1,6 +1,6 @@
 {
   "name": "windows-setup",
-  "version": "0.26.10",
+  "version": "0.27.0",
   "description": "Windows development environment setup scripts",
   "author": "PatEvs",
   "license": "MIT",
