@@ -17,6 +17,7 @@
 
 ```md
 .
+├── .husky              # Husky configuration
 ├── docs                # Documentation
 ├── scripts             # Setup scripts
 ├── .editorconfig       # Editor configuration
