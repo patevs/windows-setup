@@ -250,6 +250,7 @@ scoop install bat
 # scoop install cmake
 # scoop install colortool
 scoop install duf
+scoop install dum
 scoop install dust
 scoop install fd
 # scoop install fzf
