@@ -119,6 +119,7 @@
 * [`hotel`](https://github.com/typicode/hotel) Start apps from your browser and access them using local domains.
 * [`Jsome`](https://github.com/Javascipt/Jsome) Give style to your JSON on your console!
 * [`jsonlint`](https://github.com/zaach/jsonlint) JSON parser and validator with a CLI.
+* [`kill-port`](https://github.com/tiaanduplessis/kill-port) ❌ Kill the process running on given port.
 * [`licensed`](https://github.com/plibither8/licensed) Interactive command line tool to help you choose and add licenses to your projects
 * [`loadtest`](https://github.com/alexfernandez/loadtest) Runs a load test on the selected HTTP or WebSockets URL.
 * [`localtunnel`](https://github.com/localtunnel/localtunnel) Exposes your localhost to the world for easy testing and sharing!
