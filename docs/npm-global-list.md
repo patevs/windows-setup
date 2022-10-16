@@ -29,6 +29,7 @@
 * [`git-dld`](https://github.com/ziishaned/git-dld) Download files or folders from GitHub.
 * [`git-open`](https://github.com/paulirish/git-open) Open the GitHub page or website for a repository in your browser.
   * *Note* - The `hub browse` command can be used instead.
+* [`git-peek`](https://github.com/Jarred-Sumner/git-peek) git repo to local editor instantly.
 * [`git-stats`](https://github.com/IonicaBizau/git-stats) Local git statistics including GitHub-like contributions calendars.
 * [`gitmoji-cli`](https://github.com/carloscuesta/gitmoji-cli) Interactive command line tool for using emojis on commits.
 * [`git-labelmaker`](https://github.com/himynameisdave/git-labelmaker) Manage your GitHub labels from the command line.
