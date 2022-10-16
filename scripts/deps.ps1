@@ -340,6 +340,7 @@ scoop install teracopy-np
 # scoop install vncviewer
 # scoop install vscodium
 # scoop install win32-disk-imager
+scoop install wingetui
 # scoop install zeal
 
 # Databases
