@@ -129,7 +129,6 @@ choco install cpufetch
 # NOTE: Requires `Install-Package Microsoft.UI.Xaml`
 # choco install files
 choco install git.install
-choco install gotop
 choco install Gpg4win
 # choco install jdk8
 choco install microsoft-windows-terminal
