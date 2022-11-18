@@ -270,6 +270,7 @@ scoop install neovim
 # scoop install ninja
 # scoop install nmap
 # scoop install NuGet
+scoop install posh-git
 scoop install postman
 scoop install ripgrep
 scoop install s
