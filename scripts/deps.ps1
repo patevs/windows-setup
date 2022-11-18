@@ -92,7 +92,7 @@ Install-Module -Name npm-completion # -Scope CurrentUser -Force
 Install-Module -Name posh-cargo -AllowClobber # -Scope CurrentUser -Force
 # Install-Module -Name posh-cli -Scope CurrentUser -Force
 Install-Module -Name posh-dotnet # -Scope CurrentUser -Force
-Install-Module -Name posh-git -AllowClobber # -Scope CurrentUser -Force
+# Install-Module -Name posh-git -AllowClobber # -Scope CurrentUser -Force
 # Install-Module -Name posh-npm -Scope CurrentUser -Force
 Install-Module -Name scoop-completion # -Scope CurrentUser -Force
 Install-Module -Name yarn-completion # -Scope CurrentUser
