@@ -270,7 +270,6 @@ scoop install neovim
 # scoop install ninja
 # scoop install nmap
 # scoop install NuGet
-scoop install posh-git
 scoop install postman
 scoop install ripgrep
 scoop install s
@@ -281,6 +280,9 @@ scoop install wget
 # scoop install xampp # Must be run as admin
 scoop install xh
 scoop install yarn
+
+# PowerShell Modules
+scoop install posh-git
 
 # Shells and Terminals
 # scoop install cmder
