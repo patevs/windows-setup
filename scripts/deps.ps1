@@ -82,7 +82,7 @@ Install-Module -Name PowerShellGet -Force
 # Install-Module -Name Pester -Force -SkipPublisherCheck -Scope CurrentUser
 # Install-Module -Name Configuration
 
-Install-Module -Name PSReadLine # -Scope CurrentUser -Force
+# Install-Module -Name PSReadLine # -Scope CurrentUser -Force
 # Install-Module -Name PSWindowsUpdate -Scope CurrentUser # -Force
 Install-Module -Name PSWriteColor # -Scope CurrentUser -Force
 # Install-Module -Name PSKoans -Scope CurrentUser -Force
