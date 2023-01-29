@@ -97,7 +97,7 @@ Install-Module -Name posh-dotnet # -Scope CurrentUser -Force
 Install-Module -Name scoop-completion # -Scope CurrentUser -Force
 Install-Module -Name yarn-completion # -Scope CurrentUser
 
-Install-Module Terminal-Icons -Scope CurrentUser -Force
+# Install-Module Terminal-Icons -Scope CurrentUser -Force
 # Install-Module Get-ChildItemColor -Scope CurrentUser -Force
 
 # ------------------------------------------------------------------------------------------------------- #
