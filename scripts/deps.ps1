@@ -283,6 +283,7 @@ scoop install yarn
 
 # PowerShell Modules
 scoop install posh-git
+scoop install psreadline
 scoop install terminal-icons
 
 # Shells and Terminals
