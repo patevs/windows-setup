@@ -13,7 +13,7 @@
     "npm": ">=6.8.0"
   },
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky",
     "updates": "npx ncu",
     "release": "npx np"
   },
