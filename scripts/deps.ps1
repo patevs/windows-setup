@@ -563,6 +563,10 @@ ridk install 1,2,3
 gem update --system
 gem update
 
+# Install `rexml` required by `ridk version` command.
+# https://github.com/CocoaPods/CocoaPods/issues/10388#issuecomment-770255366
+gem install rexml
+
 gem install bundler
 gem install rails
 gem install neovim
