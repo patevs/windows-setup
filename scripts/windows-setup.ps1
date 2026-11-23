@@ -49,8 +49,8 @@ if (!(Test-Path $PROFILE)) { New-Item -Path $PROFILE -ItemType "file" -Force }
 # Run from admin shell
 
 # Install Chocolatey
-Set-ExecutionPolicy Bypass -Scope Process -Force; 
-[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; 
+Set-ExecutionPolicy Bypass -Scope Process -Force;
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
 iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
 # ----------------------------------------
@@ -67,12 +67,12 @@ choco install Firefox
 # choco install visualstudio2026-workload-nativedesktop
 # choco install libreoffice-fresh
 
-# Install Desktop development with C++ workload 
+# Install Desktop development with C++ workload
 # using Visual Studio Installer CLI
 # vs_buildtools.exe --quiet --wait --norestart ^
 #   --add Microsoft.VisualStudio.Workload.NativeDesktop ^
 #   --includeRecommended ^
-#   --removeOos true   
+#   --removeOos true
 
 # ----------------------------------------
 
@@ -119,7 +119,7 @@ New-ItemProperty -Path $RegistryKeyPath -Name AllowDevelopmentWithoutDevLicense 
 Install-PackageProvider -Name NuGet -Force
 
 # Install PowerShellGet Module
-# 
+#
 # Note: When you install PowerShellGet, it automatically installs the latest version of PackageManagement.
 # https://learn.microsoft.com/en-us/powershell/gallery/powershellget/install-powershellget
 Install-Module -Name PowerShellGet -Force
@@ -143,7 +143,7 @@ scoop bucket add java
 scoop install sudo
 scoop install gsudo
 scoop install 7zip
-# Add 7zip as a context menu option by running: 
+# Add 7zip as a context menu option by running:
 # Invoke-Expression "$(scoop prefix 7zip)\install-context.reg"
 scoop install innounp
 scoop install dark
@@ -156,7 +156,7 @@ scoop install scoop-completion
 
 # Text editors and IDEs
 scoop install notepadplusplus
-# Add Notepad++ as a context menu option by running: 
+# Add Notepad++ as a context menu option by running:
 # Invoke-Expression "$(scoop prefix notepadplusplus)\install-context.reg"
 scoop install vscode
 # Add Visual Studio Code as a context menu option by running:
@@ -237,6 +237,8 @@ scoop config use_git_history true
 # bat --config-file
 # Generate default bat configuration file:
 # bat --generate-config-file
+# Enable tab completion for bat
+# Invoke-Expression (& { (bat --completion ps1 | Out-String) })
 
 # ----------------------------------------
 
@@ -325,7 +327,7 @@ code --install-extension riussi.code-stats-vscode
 
 # ----------------------------------------
 
-# Install Android SDK, platforms, build-tools, 
+# Install Android SDK, platforms, build-tools,
 # and platform-tools using Android Command Line Tools
 # sdkmanager "platform-tools" \
 #            "platforms;android-34" \
