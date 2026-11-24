@@ -325,6 +325,26 @@ code --install-extension vscode-icons-team.vscode-icons
 code --install-extension WakaTime.vscode-wakatime
 code --install-extension riussi.code-stats-vscode
 
+# aaron-bond.better-comments
+# alefragnani.project-manager
+# christian-kohler.npm-intellisense
+# dart-code.dart-code
+# dart-code.flutter
+# davidanson.vscode-markdownlint
+# dbaeumer.vscode-eslint
+# editorconfig.editorconfig
+# esbenp.prettier-vscode
+# formulahendry.auto-close-tag
+# formulahendry.auto-rename-tag
+# golang.go
+# kamranbekirov.flutter-pubgrade
+# mariusschulz.yarn-lock-syntax
+# ms-vscode.powershell
+# oderwat.indent-rainbow
+# pkief.material-icon-theme
+# tomoki1207.pdf
+# yzhang.markdown-all-in-on
+
 # ----------------------------------------
 
 # Install Android SDK, platforms, build-tools,
