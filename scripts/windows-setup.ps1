@@ -292,7 +292,7 @@ scoop install bulk-crap-uninstaller
 scoop install snappy-driver-installer-origin
 
 # Applications
-# scoop install postman
+scoop install postman
 # scoop install libreoffice
 
 # ----------------------------------------
