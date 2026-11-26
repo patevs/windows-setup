@@ -42,6 +42,7 @@
 # ----------------------------------------
 
 # Create PowerShell profile if it doesn't already exist
+# mkdir -Path (Split-Path -Parent $PROFILE) -ErrorAction SilentlyContinue
 if (!(Test-Path $PROFILE)) { New-Item -Path $PROFILE -ItemType "file" -Force }
 
 # ----------------------------------------
@@ -85,6 +86,7 @@ git config --global core.editor "code --wait"   # VS Code
 git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
 # git config --global interactive.diffFilter "diff-so-fancy --patch"
 # git config --global init.defaultBranch main
+# git config --global alias.st status
 
 # ----------------------------------------
 
