@@ -327,6 +327,7 @@ code --install-extension dracula-theme.theme-dracula
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension WakaTime.vscode-wakatime
 code --install-extension riussi.code-stats-vscode
+code --install-extension editorconfig.editorconfig
 
 # aaron-bond.better-comments
 # alefragnani.project-manager
