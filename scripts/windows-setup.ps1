@@ -266,7 +266,7 @@ scoop install openjdk17
 # scoop install dotnet-sdk
 scoop install go
 scoop install perl
-# scoop install flutter
+scoop install flutter
 # scoop install ruby
 # scoop install rustup
 
