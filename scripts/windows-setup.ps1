@@ -32,15 +32,6 @@
 
 # ----------------------------------------
 
-# Install-Module PSWindowsUpdate
-# Import-Module PSWindowsUpdate
-# # Check for Windows updates
-# Get-WindowsUpdate
-# # Install Windows updates
-# Install-WindowsUpdate -AcceptAll -AutoReboot # -IgnoreReboot
-
-# ----------------------------------------
-
 # Create PowerShell profile if it doesn't already exist
 # mkdir -Path (Split-Path -Parent $PROFILE) -ErrorAction SilentlyContinue
 if (!(Test-Path $PROFILE)) { New-Item -Path $PROFILE -ItemType "file" -Force }
@@ -135,6 +126,15 @@ Install-Module PSReadLine -Repository PSGallery -Scope CurrentUser -Force
 
 # ----------------------------------------
 
+# Install-Module PSWindowsUpdate
+# Import-Module PSWindowsUpdate
+# # Check for Windows updates
+# Get-WindowsUpdate
+# # Install Windows updates
+# Install-WindowsUpdate -AcceptAll -AutoReboot # -IgnoreReboot
+
+# ----------------------------------------
+
 # Add scoop buckets
 scoop bucket add extras
 scoop bucket add versions
@@ -224,6 +224,7 @@ scoop install lsd
 scoop install bat
 scoop install less
 scoop install s
+# scoop install yazi
 
 # ----------------------------------------
 
@@ -233,15 +234,6 @@ scoop config cat_style default
 scoop config use_lessmsi true
 scoop config use_sqlite_cache true
 scoop config use_git_history true
-
-# ----------------------------------------
-
-# Get path to bat configuration file:
-# bat --config-file
-# Generate default bat configuration file:
-# bat --generate-config-file
-# Enable tab completion for bat
-# Invoke-Expression (& { (bat --completion ps1 | Out-String) })
 
 # ----------------------------------------
 
@@ -280,6 +272,7 @@ scoop install perl
 
 # Development tools
 # scoop install msys2
+# scoop install mysql-workbench
 scoop install yarn
 
 # Git Tools
